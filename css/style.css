@@ -38,8 +38,9 @@ main {
 	/* background: url(../images/title-bg.jpg);
 	background-position: center;
 	background-size: cover; */
+	width: 850px;
+	margin: 0 auto;
 	max-height: 450px;
-	max-width: 850px;
 	position: relative;
 	margin: auto;
 	overflow: hidden;
